@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Nov 29 2022
-@author: Abhilash Adya, Belaul Emon Hasan
+@author: Abhilash Adya
 
 Note: 1) Please assign the path where you have stored the dataset(.csv file) in 'path' variable below.
       2) One can see the graph of any column like 'new_cases' and 'population' vs year_week just by writing down 
